@@ -52,7 +52,7 @@ Foodie-Website/ │ ├── Images/          # All food images ├── index
 ## ⚙️ How to Run the Project Locally
 
 1. Clone the repository:
-git clone https://github.com/Raghav335/Foodie-Website.git�
+git clone: https://github.com/Raghav335/Foodie-Website
 
 2. Open the project folder
 
